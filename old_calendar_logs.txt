@@ -1,0 +1,54 @@
+General Event (Non Repetitive)
+Event Created general testing general events me [31-08-2023 08:00:00 to 31-08-2023 09:00:00] (Create)
+Event Updated general update g events [15-09-2023 08:00:00 to 15-09-2023 09:00:00] (Update)
+Deleted calendar Event (update g events) [15-09-2023 08:00:00 to 15-09-2023 09:00:00] (Delete)
+
+General Task (Non Repetitive)
+Task Created general g task me [30-09-2023 08:00:00 to 30-09-2023 08:00:00] (Create)
+Task Updated general g task me task [15-10-2023 08:00:00 to 15-10-2023 08:00:00] (Update)
+Deleted calendar Task (g task me task) [15-10-2023 08:00:00 to 15-10-2023 08:00:00] (Delete)
+ 
+General Event (Repetitive)
+Event Created general new event [01-01-2024 08:00:00 to 31-01-2024 00:00:00] (Create)
+Event Updated general new event [01-01-2024 08:00:00 to 01-01-2024 09:00:00] (Single Update)
+Event Updated general new event [01-01-2024 08:00:00 to 01-01-2024 09:00:00] (All Update)
+Deleted calendar Event (new event 123 dilawar) [15-01-2024 00:00:00 to 15-01-2024 00:00:00] (Single Delete)
+Deleted calendar Event (new event 123 dilawar) [16-01-2024 00:00:00 to 25-01-2024 00:00:00] (All Delete)
+
+General Task (Repetitive)
+Task Created general task new [01-02-2024 08:00:00 to 29-02-2024 00:00:00] (Create)
+Task Updated general task new 123 [03-02-2024 08:00:00 to 03-02-2024 08:00:00] (Single Update)
+Task Updated general task new 123 [03-02-2024 08:00:00 to 29-02-2024 00:00:00] (All Update)
+Deleted calendar Task (task new 123) [16-02-2024 00:00:00 to 16-02-2024 00:00:00] (Single Delete)
+Deleted calendar Task (task new 123) [26-02-2024 00:00:00 to 29-02-2024 00:00:00] (All Delete)
+
+------------------------------------------------------------------------------------------------------
+
+Case Event (Repetitive)
+Event Created case 23-08-01516 Chris Halamandaris [01-10-2023 08:00:00 to 31-10-2023 00:00:00] (Create)
+Event Updated case 23-08-01516 Chris Halamandaris [11-10-2023 08:00:00 to 11-10-2023 09:00:00] (Single Update)
+Event Updated case 23-08-01516 Chris Halamandaris change case title preview from [(Testing Matter) testing RFO Court Hearing to MY Update Single Event] (Title Update)
+Event Updated case 23-08-01516 Chris Halamandaris [16-10-2023 08:00:00 to 31-10-2023 00:00:00] (All Update)
+Deleted calendar Event case 23-08-01516 Chris Halamandaris [08-10-2023 08:00:00 to 08-10-2023 09:00:00] (Single Delete)
+Deleted calendar Event case 23-08-01516 Chris Halamandaris [15-10-2023 08:00:00 to 31-10-2023 00:00:00] (All Delete)
+
+Case Task (Repetitive)
+Task Created case 23-08-01516 Chris Halamandaris [01-12-2023 08:00:00 to 31-12-2023 00:00:00] (Create)
+Task Updated case 23-08-01516 Chris Halamandaris [04-12-2023 08:00:00 to 04-12-2023 08:00:00] (Single Update)
+Task Updated case 23-08-01516 Chris Halamandaris change case title preview from [(Testing Matter) test MED Other Appearances to new test] (Title Update)
+Deleted calendar Task case 23-08-01516 Chris Halamandaris [05-12-2023 08:00:00 to 05-12-2023 08:00:00] (Single Delete)
+Deleted calendar Task case 23-08-01516 Chris Halamandaris [18-12-2023 08:00:00 to 31-12-2023 00:00:00] (All Delete)
+
+Case Event (Non Repetitive)
+Event Created case 23-08-01516 Chris Halamandaris [30-11-2023 08:00:00 to 30-11-2023 09:00:00] (Create)
+Event Updated case 23-08-01516 Chris Halamandaris [01-12-2023 08:00:00 to 01-12-2023 09:00:00] (Update)
+Event Updated case 23-08-01516 Chris Halamandaris change case title preview from [(Testing Matter) test ARB Other Appearances to aaa] (Title Update)
+Deleted calendar Event case 23-08-01516 Chris Halamandaris [01-12-2023 08:00:00 to 01-12-2023 09:00:00] (Delete)
+
+Case Task (Non Repetitive)
+Task Created case 23-08-01516 Chris Halamandaris [31-12-2023 08:00:00 to 31-12-2023 08:00:00]  (Create)
+Task Updated case 23-08-01516 Chris Halamandaris [15-12-2023 08:00:00 to 15-12-2023 08:00:00]  (Update)
+Deleted calendar Task case 23-08-01516 Chris Halamandaris [15-12-2023 08:00:00 to 15-12-2023 08:00:00] (Delete)
+
+
+---------------------------------------------------------------------------------------------------------

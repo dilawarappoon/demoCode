@@ -1,0 +1,25 @@
+Company Holiday:
+Added Company Holiday of Testing [20-09-2023 to 20-09-2023] (Create)
+Updated Company Holiday of Testing [20-09-2023 to 20-09-2023] (Update)
+Updated Company Holiday Name from (Testing) to Testing 123 (Name Change)
+Updated Company Holiday of Testing 123 form [20-09-2023 to 20-09-2023] to [30-09-2023 to 30-09-2023] (Date Change)
+Deleted Company Holiday of Testing 123 [30-09-2023 to 30-09-2023] (Single Delete)
+Deleted Company Holiday of Testing 123 [30-09-2023 to 30-09-2023] (All Delete each row delete add logs)
+
+
+Upcoming Staff Holiday:
+Added Upcoming Staff Holiday of testing (Chandra Moss) [01-09-2023 to 30-09-2023] (Create)
+Updated Upcoming Staff Holiday of testing (Chandra Moss) [11-09-2023 to 11-09-2023] (Update)
+Updated Upcoming Staff Holiday Name from (testing) to testing new (Name Change)
+Updated Upcoming Staff Holiday of testing new (Chandra Moss) form [11-09-2023 to 11-09-2023] to [10-10-2023 to 10-10-2023] (Date Change)
+Deleted Upcoming Staff Holiday of testing new (Chandra Moss) [10-10-2023 to 10-10-2023] (Single Delete)
+Deleted Upcoming Staff Holiday of testing (Chandra Moss) [13-09-2023 to 13-09-2023] (All Delete each row delete add logs)
+
+
+Staff Past Holiday:
+Updated Staff Past Holiday of testing (Chandra Moss) [03-09-2023 to 03-09-2023] (Update)
+Updated Staff Past Holiday Name from (testing) to testing new (Name Change)
+Updated Staff Past Holiday of testing new (Chandra Moss) form [02-09-2023 to 02-09-2023] to [22-09-2023 to 22-09-2023] (Date Change)
+Deleted Staff Past Holiday of testing (Chandra Moss) [01-09-2023 to 01-09-2023] (Single Delete)
+
+---------------------------------------------------------------------------------------------------
