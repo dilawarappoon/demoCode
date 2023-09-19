@@ -2,6 +2,6 @@ Company Holiday:
 Added Company Holiday of Testing [20-09-2023 to 20-09-2023] (Create)
 Updated Company Holiday of Testing [20-09-2023 to 20-09-2023] (Update)
 Updated Company Holiday Name from (Testing) to Testing 123 (Name Change)
-Updated Company  123 form [20-09-2023 to 20-09-2023] to [30-09-2023 to 30-09-2023] (Date Change)
+Updated Company Holiday of Testing 123 form [20-09-2023 to 20-09-2023] to [30-09-2023 to 30-09-2023] (Date Change)
 Deleted Company Holiday of Testing 123 [30-09-2023 to 30-09-2023] (Single Delete)
 Deleted Company Holiday of Testing 123 [30-09-2023 to 30-09-2023] (All Delete each row delete add logs)
